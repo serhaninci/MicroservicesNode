@@ -2,7 +2,7 @@
   "name": "movies-service",
   "version": "1.0.0",
   "description": "A movie service, microservice example with nodejs",
-  "author": "Cristian Ramirez Rosas <cristiano.rosetti@gmail.com>",
+  "author": "Serhan INCI <serhan.inci@gmail.com>",
   "license": "ISC",
   "main": "index.js",
   "standard": {
